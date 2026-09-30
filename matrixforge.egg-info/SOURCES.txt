@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+matrixforge/__init__.py
+matrixforge/core.py
+matrixforge/operations.py
+matrixforge/stats.py
+matrixforge/transformations.py
+matrixforge/utils.py
+matrixforge.egg-info/PKG-INFO
+matrixforge.egg-info/SOURCES.txt
+matrixforge.egg-info/dependency_links.txt
+matrixforge.egg-info/top_level.txt
